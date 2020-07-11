@@ -1,3 +1,4 @@
+
 1.
 ![](images/Earthquake_Epicenters_OttawaMontreal-1.png)
 2.
