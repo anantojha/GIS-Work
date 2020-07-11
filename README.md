@@ -1,2 +1,2 @@
 Test
-![picture](Earthquake_Epicenters_OttawaMontreal.pdf)
+![github-large](Earthquake_Epicenters_OttawaMontreal.pdf)
