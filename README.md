@@ -1,4 +1,3 @@
-MAPS:
 
 ![](images/Nunavut_Communities-1.png)
 
